@@ -1,12 +1,10 @@
 ---
 title: Final Project
-#  linkTitle: Data Science
+
 summary: A description of the final projects.
 date: '2022-02-28'
 type: book
 ---
-
-{{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
