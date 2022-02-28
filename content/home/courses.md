@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-{{<center>}}Here's the description!
+{{<center>}}Here's the description!{{</center>}}
