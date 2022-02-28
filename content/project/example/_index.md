@@ -15,18 +15,18 @@ type: book
 The Course Project is an opportunity for you to apply what you have learned in the class to a problem of your interest. 
 Potential projects usually fall into these two tracks:
 
-- {{<hl>}}Applications.{{</hl>}} If you're coming to the class with a specific background and interests, 
+- **Applications.** If you're coming to the class with a specific background and interests, 
 we'd love to see you apply ConvNets to problems related to your particular domain of interest. 
 Pick a real-world problem and apply ConvNets to solve it.
-- {{<hl>}}Models.{{</hl>}} You can build a new model (algorithm) with ConvNets, or a new variant of existing models, 
+- **Models.** You can build a new model (algorithm) with ConvNets, or a new variant of existing models, 
 and apply it to tackle vision tasks. This track might be more challenging, and sometimes leads to a piece of publishable work.
 
-You can work in teams of up to {{<hl>}}5{{<\hl>}} people. We have a total of {{<hl>}}13{{<\hl>}} topics for your choice, 
-and each team can bid on {{<hl>}}5{{<\hl>}} topics. We will assign an appropriate topic for each team according to the overall bidding.
+You can work in teams of up to **5** people. We have a total of **13** topics for your choice, 
+and each team can bid on **5** topics. We will assign an appropriate topic for each team according to the overall bidding.
 
 <br>
 
-{{<hl>}}You can find the detailed project information for each topic in the following links.{{<\hl>}}
+## The Projects
 
 {{< list_children >}}
 
