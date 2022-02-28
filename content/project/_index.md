@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Projects
 type: page
 
 view: compact
