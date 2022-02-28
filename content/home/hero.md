@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: COMP3340
 hero_media: student.svg
 design:
   background:
