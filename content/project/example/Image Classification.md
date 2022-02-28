@@ -12,9 +12,9 @@ to recognize flower types. Then, you may use novel modules to improve the perfor
 {{< figure src="Image Classification.jpg" >}}
 
 {{< spoiler text="Lecture Notes" >}}
-	**https://hackmd.io/NLwHXy9TR12jk4SrrIa6Ng?view**
+	https://hackmd.io/NLwHXy9TR12jk4SrrIa6Ng?view
 {{< /spoiler >}}
 
 {{< spoiler text="Tutorials" >}}
-    **https://drive.google.com/file/d/1HOoU0RaDtMt_u14udtKk7eqj69B-sm-z/view?usp=sharing**
+    https://drive.google.com/file/d/1HOoU0RaDtMt_u14udtKk7eqj69B-sm-z/view?usp=sharing
 {{< /spoiler >}}
