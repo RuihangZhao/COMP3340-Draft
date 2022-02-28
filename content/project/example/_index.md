@@ -24,8 +24,6 @@ and apply it to tackle vision tasks. This track might be more challenging, and s
 You can work in teams of up to **5** people. We have a total of **13** topics for your choice, 
 and each team can bid on **5** topics. We will assign an appropriate topic for each team according to the overall bidding.
 
-<br>
-
 ## The Projects
 
 {{< list_children >}}
