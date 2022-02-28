@@ -6,5 +6,6 @@ subtitle:
 design:
   columns: '1'
 ---
+<br>
 
-{{<center>}}Here's the description!{{</center>}}
+Here's the description!
