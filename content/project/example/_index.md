@@ -10,6 +10,9 @@ type: book
 
 ## Project Overview
 
+![](https://github.com/RuihangZhao/COMP3340-Draft/blob/main/assets/media/Image%20Classification.jpg)
+
+
 The Course Project is an opportunity for you to apply what you have learned in the class to a problem of your interest. 
 Potential projects usually fall into these two tracks:
 
