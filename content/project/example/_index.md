@@ -10,6 +10,8 @@ type: book
 
 ## Project Overview
 
+<br>
+
 The Course Project is an opportunity for you to apply what you have learned in the class to a problem of your interest. 
 Potential projects usually fall into these two tracks:
 
@@ -35,7 +37,11 @@ You may consult any papers, books, online references, or publicly available impl
 may want to incorporate into your strategy or algorithm, so long as you clearly cite your sources in your code and your 
 writeup. However, under no circumstances may you look at another group’s code or incorporate their code into your project.
 
+<br>
+
 ## Report Submission
+
+<br>
 
 Please submit your proposal as a PDF using the CVPR template. **Only one person on your team should submit.** Please have 
 this person add the rest of your team as collaborators as a “Group Submission”.
@@ -67,7 +73,11 @@ starting point for most projects.
   experimental results.
 - **Conclusion**: Summarize your key results - what have you learned? Suggest ideas for future extensions or new applications of your ideas.  
 
+<br>
+
 ## Final Presentation (video recording)
+
+<br>
 
 We will use video recording as the way for student to present and share their project. Each group is required to submit 
 a maximum **5-minute** presentation video for their final project. Students can be as creative as they like for their video 
