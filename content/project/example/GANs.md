@@ -1,5 +1,5 @@
 ---
-title: Video recognition on HDMB51
+title: Generating street scenes from semantic labels
 date: '2021-01-01'
 type: book
 weight: 60
