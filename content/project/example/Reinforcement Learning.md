@@ -1,5 +1,6 @@
 ---
-title: Landing control by reinforcement learning
+title: Reinforcement Learning
+subtitle: Landing control by reinforcement learning
 date: '2021-01-01'
 type: book
 weight: 120

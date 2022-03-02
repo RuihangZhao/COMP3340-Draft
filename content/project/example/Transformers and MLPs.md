@@ -1,5 +1,6 @@
 ---
-title: Image Classification Using MLP-based Model
+title: Transformers and MLPs
+subtitle: Image Classification Using MLP-based Model
 date: '2021-01-01'
 type: book
 weight: 110

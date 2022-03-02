@@ -1,5 +1,6 @@
 ---
-title: Image restoration
+title: Low-level Vision
+subtitle: Image restoration
 date: '2021-01-01'
 type: book
 weight: 70

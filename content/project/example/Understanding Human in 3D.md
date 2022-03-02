@@ -1,5 +1,6 @@
 ---
-title: Vehicle pose estimation
+title: Understanding Human in 3D
+subtitle: Vehicle pose estimation
 date: '2021-01-01'
 type: book
 weight: 90

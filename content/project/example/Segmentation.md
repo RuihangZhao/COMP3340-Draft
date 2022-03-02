@@ -1,5 +1,6 @@
 ---
-title: Semantic segmentation on SBD dataset
+title: Segmentation
+subtitle: Semantic segmentation on SBD dataset
 date: '2021-01-01'
 type: book
 weight: 40

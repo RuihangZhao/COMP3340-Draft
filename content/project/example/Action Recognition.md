@@ -1,5 +1,6 @@
 ---
-title: Video recognition on HDMB51
+title: Action Recognition
+subtitle: Video recognition on HDMB51 
 date: '2021-01-01'
 type: book
 weight: 50
