@@ -6,6 +6,12 @@ type: book
 weight: 90
 ---
 
+<br>
+
+**Vehicle pose estimation**
+
+<br>
+
 In this project, you are going to develop a 2D vehicle pose estimation system based on deep learning. The system will 
 detect all the key points of a car and estimate the poses, which is critical in autonomous driving. You may use advanced 
 techniques to improve the performance / accuracy of your deep neural networks.

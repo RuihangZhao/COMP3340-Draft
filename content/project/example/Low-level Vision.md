@@ -6,6 +6,12 @@ type: book
 weight: 70
 ---
 
+<br>
+
+**Image restoration**
+
+<br>
+
 Modify the data layer to extend the SRCNN to more complicate degradations, including downsampling, noise, blur, and 
 compression artifact. Range of the degradations are shown in the table. Add perceptual loss and GAN loss for 
 reconstructing more structure of images. Finding a trade-off of L1Loss, perceptual loss, and GAN loss.

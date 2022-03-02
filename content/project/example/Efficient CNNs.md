@@ -6,6 +6,12 @@ type: book
 weight: 140
 ---
 
+<br>
+
+**Quantized object detection model** 
+
+<br>
+
 In this project, you need to quantize a Yolo network to do the object detection task. The DL framework should be Pytorch 
 and the required dataset is coco2017. The bit number of quantized model weight is up to 8.
 

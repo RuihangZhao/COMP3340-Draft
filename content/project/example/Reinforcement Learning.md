@@ -6,6 +6,12 @@ type: book
 weight: 120
 ---
 
+<br>
+
+**Landing control by reinforcement learning**
+
+<br>
+
 In this project, we use “LunarLander-v2” in OpenAI gym as the environment of the simulator. You have to run your 
 implement in this environment to test the performance, and you are encouraged to show performance on more benchmarks. 
 The goal of this task is to control the agent landing the moon landing craft safely on the flat ground between two yellow 

@@ -6,6 +6,12 @@ type: book
 weight: 60
 ---
 
+<br>
+
+**Generating street scenes from semantic labels**
+
+<br>
+
 In this project, you need to train a Pix2Pix GAN model, which can generate street scenes from semantic labels. You first 
 train the Pix2Pix GAN model with the training set of Cityscapes Dataset, which contains the semantic labels (the “Input” 
 column) and the ground truth images (the “Ground truth” column). After training the model, you need to generate street 

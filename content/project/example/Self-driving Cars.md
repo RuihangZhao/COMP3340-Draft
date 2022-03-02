@@ -6,6 +6,12 @@ type: book
 weight: 130
 ---
 
+<br>
+
+**Lidar-based 3D object detection**
+
+<br>
+
 In this project, you will try to implement TA (Triple Attention) Module in TA-Net with PointPillar in OpenPCDet framework 
 using KITTI dataset. The figure shows the main mechanism in TA-Module.
 
