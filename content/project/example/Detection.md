@@ -6,6 +6,12 @@ type: book
 weight: 30
 ---
 
+<br>
+
+**Video tracker on KITTI**
+
+<br>
+
 In this project, you are supposed to design a tracker for the objects in a video. A detector should be first finetuned 
 on KITTI dataset. You can design a tracker based on the object detector with the IoU matching rule. We also encourage 
 you to design a more sophisticated tracker, if you would like to explore more interesting works. :)

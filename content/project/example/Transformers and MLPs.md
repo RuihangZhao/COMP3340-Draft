@@ -6,6 +6,12 @@ type: book
 weight: 110
 ---
 
+<br>
+
+**Image Classification Using MLP-based Model**
+
+<br>
+
 In this project, you need to implement at least one MLP-based model (e.g., MLP-Mixer, ResMLP, gMLP) based on 
 MMClassification codebase; You need to train your model on the Category Flower Dataset, which contains 17 category flower 
 dataset with 80 images for each class. After training, you need test your model on the validation set. Bonus: Implement 

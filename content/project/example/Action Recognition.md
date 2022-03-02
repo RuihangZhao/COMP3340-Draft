@@ -8,7 +8,7 @@ weight: 50
 
 <br>
 
-# Video recognition on HDMB51
+**Video recognition on HDMB51**
 
 <br>
 

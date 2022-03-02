@@ -6,6 +6,12 @@ type: book
 weight: 80
 ---
 
+<br>
+
+**Video captioning on GIFs**
+
+<br>
+
 In this project, you are asked to design and implement an automated captioning method on GIFs, which could be trained 
 end-to-end. Different from image captioning, GIFs have a series of continuous frames with both appearance and motion 
 information. You may report the performance of the model and improve the caption quality by introducing novel modules.
