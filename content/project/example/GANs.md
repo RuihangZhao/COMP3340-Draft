@@ -1,5 +1,6 @@
 ---
-title: Generating street scenes from semantic labels
+title: GANs
+subtitle: Generating street scenes from semantic labels
 date: '2021-01-01'
 type: book
 weight: 60

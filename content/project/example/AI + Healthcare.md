@@ -1,5 +1,6 @@
 ---
-title: Detect Covid-19 from chest X-ray image
+title: AI + Healthcare
+subtitle: Detect Covid-19 from chest X-ray image
 date: '2021-01-01'
 type: book
 weight: 100

@@ -1,5 +1,6 @@
 ---
-title: Quantized object detection model
+title: Efficient CNNs
+subtitle: Quantized object detection model 
 date: '2021-01-01'
 type: book
 weight: 140

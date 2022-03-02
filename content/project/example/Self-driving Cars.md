@@ -1,5 +1,6 @@
 ---
-title: Lidar-based 3D object detection
+title: Self-driving Cars
+subtitle: Lidar-based 3D object detection
 date: '2021-01-01'
 type: book
 weight: 130

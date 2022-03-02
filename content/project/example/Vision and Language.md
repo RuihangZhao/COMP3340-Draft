@@ -1,5 +1,6 @@
 ---
-title: Video captioning on GIFs
+title: Vision and Language
+subtitle: Video captioning on GIFs
 date: '2021-01-01'
 type: book
 weight: 80

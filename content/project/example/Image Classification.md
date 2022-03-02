@@ -1,5 +1,6 @@
 ---
-title: Multi-class flower classification
+title: Image Classification
+subtitle: Multi-class flower classification
 date: '2021-01-01'
 type: book
 weight: 20
