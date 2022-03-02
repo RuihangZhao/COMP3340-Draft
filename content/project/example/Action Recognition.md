@@ -6,6 +6,12 @@ type: book
 weight: 50
 ---
 
+<br>
+
+# Video recognition on HDMB51
+
+<br>
+
 In this project, you need to train a I3D model on HMDB51 dataset. The dataset contains 6,766 videos for 51 action classes. 
 For efficient training, you can finetune the I3D model pretrained on Kinetics-400. Bonus: Implementation the Non-local 
 block and add it to the I3D model.
