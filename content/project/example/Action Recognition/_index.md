@@ -16,6 +16,12 @@ In this project, you need to train a I3D model on HMDB51 dataset. The dataset co
 For efficient training, you can finetune the I3D model pretrained on Kinetics-400. Bonus: Implementation the Non-local 
 block and add it to the I3D model.
 
+<br>
+
+{{< figure src="featured.jpg">}}
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/@wjn/H1RoirOSF
 {{< /spoiler >}}
