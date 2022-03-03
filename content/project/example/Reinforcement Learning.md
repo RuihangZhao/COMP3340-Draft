@@ -17,6 +17,10 @@ implement in this environment to test the performance, and you are encouraged to
 The goal of this task is to control the agent landing the moon landing craft safely on the flat ground between two yellow 
 flags. You can select Policy Gradient, DQN, Actor-Critic, and any other algorithm you know.
 
+![](https://i.imgur.com/rMdVNKo.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/11BrKzjlSTuooCmCYJW-gw?view
 {{< /spoiler >}}

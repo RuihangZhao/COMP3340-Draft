@@ -16,6 +16,10 @@ In this project, you are supposed to design a tracker for the objects in a video
 on KITTI dataset. You can design a tracker based on the object detector with the IoU matching rule. We also encourage 
 you to design a more sophisticated tracker, if you would like to explore more interesting works. :)
 
+![](https://i.imgur.com/x8TkB8L.jpg)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/_OQAtKuyT9yiw2Eh1bF4wg?view
 {{< /spoiler >}}

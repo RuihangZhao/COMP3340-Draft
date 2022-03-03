@@ -15,6 +15,10 @@ weight: 130
 In this project, you will try to implement TA (Triple Attention) Module in TA-Net with PointPillar in OpenPCDet framework 
 using KITTI dataset. The figure shows the main mechanism in TA-Module.
 
+![](https://i.imgur.com/K1SHsn2.jpg)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/_3l-degKS8qaaLq3eRAcbQ?both
 {{< /spoiler >}}

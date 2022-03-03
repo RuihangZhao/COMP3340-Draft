@@ -17,6 +17,10 @@ train the Pix2Pix GAN model with the training set of Cityscapes Dataset, which c
 column) and the ground truth images (the “Ground truth” column). After training the model, you need to generate street 
 scenes (the “Output” column) from semantic labels (the “Input” column) of the test set of Cityscapes Dataset.
 
+![](https://i.imgur.com/iDXPMPD.jpg)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/LxwBGys0Sl2ik_LQTxm3Wg
 {{< /spoiler >}}
