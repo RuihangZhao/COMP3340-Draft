@@ -43,13 +43,7 @@ writeup. However, under no circumstances may you look at another group’s code 
 
 <br>
 
-| Deliverable             | Due Date        | Requirements                                                                                                                          |
-|-------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Project Proposal        | Feb 8, 2022     | 1-page double-column pdf in CVPR format (group information, problem definition, proposed method)                                      |
-| Milestone Report        | Mar 8, 2022     | 1-page double-column pdf in CVPR format (contribution of each group member so far, encountered difficulties, work done in point form) |
-| Midterm Report          | Apr 8, 2022     | 3-page double-column pdf in CVPR format (introduction, related work, briefly outline your method, preliminary experimental results)   |
-| Final Report            | May 8, 2022     | Extend the midterm report to a 6-page pdf in CVPR format                                                                              |
-| Project Presentation    | June 4, 2022    | Maximum 5 minutes video recording                                                                                                     |
+{{< figure src="featured1.jpg">}}
 
 <br>
 
