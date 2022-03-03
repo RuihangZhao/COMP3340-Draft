@@ -9,7 +9,7 @@ design:
 
 <br>
 
-<br/>Tutorials: 10%</br>
-<br/>Quiz: 10%</br>
-<br/>Project: 30%</br>
-<br/>Final Exams: 50%</br>
+<center>- Tutorials: 10%</center>
+<center>- Quiz: 10%</center>
+<center>- Project: 30%</center>
+<center>- Final Exams: 50%</center>
