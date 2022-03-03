@@ -18,6 +18,10 @@ different abnormalities (“Covid-19”: the first row; “Lung Opacity”: the 
 and health person. After training the model, you need to predict the semantic label of Chest X-ray Image from the test 
 set of Covid-19 Dataset.
 
+![](https://i.imgur.com/CfOtalI.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/76W87ilkSCiypTSMTZfkaw?both
 {{< /spoiler >}}

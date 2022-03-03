@@ -16,6 +16,10 @@ Image classification is one of the core problems in computer vision that, despit
 has a large variety of practical applications. In this project, you are asked to train a Convolutional Neural Network (CNN) 
 to recognize flower types. Then, you may use novel modules to improve the performance of your network.
 
+![](https://i.imgur.com/AKDQbxN.jpg)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/NLwHXy9TR12jk4SrrIa6Ng?view
 {{< /spoiler >}}

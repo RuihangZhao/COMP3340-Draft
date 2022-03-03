@@ -16,6 +16,10 @@ Modify the data layer to extend the SRCNN to more complicate degradations, inclu
 compression artifact. Range of the degradations are shown in the table. Add perceptual loss and GAN loss for 
 reconstructing more structure of images. Finding a trade-off of L1Loss, perceptual loss, and GAN loss.
 
+![](https://i.imgur.com/Fbix6yo.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/Mtkn3V2YSYu71LJkqplwQA?view
 {{< /spoiler >}}

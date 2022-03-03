@@ -16,6 +16,10 @@ In this project, you are required to train a segmentation network on SBD dataset
 from existing public datasets. Images from these datasets are mainly outdoor scenes, each containing approximately 
 320-by-240 pixels. Then, you may use novel modules to improve the performance of your network.
 
+![](https://i.imgur.com/jG2tfJa.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
 	https://hackmd.io/@mCEIBjYoQiKa3pSS7GCbiQ/HJdih6MIF
 {{< /spoiler >}}

@@ -16,6 +16,10 @@ In this project, you are asked to design and implement an automated captioning m
 end-to-end. Different from image captioning, GIFs have a series of continuous frames with both appearance and motion 
 information. You may report the performance of the model and improve the caption quality by introducing novel modules.
 
+![](https://i.imgur.com/suGM4ux.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/@kqdt1uvPTIqhhDJ4oQ85Gw/SkynY9QLt
 {{< /spoiler >}}

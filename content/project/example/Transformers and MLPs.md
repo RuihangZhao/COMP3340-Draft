@@ -17,6 +17,10 @@ MMClassification codebase; You need to train your model on the Category Flower D
 dataset with 80 images for each class. After training, you need test your model on the validation set. Bonus: Implement 
 more than one MLP-based models and discuss their similarities and differences.
 
+![](https://i.imgur.com/RPKtX9Y.jpg)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/Mru-jjRFQLiFr4CcDgDYSg
 {{< /spoiler >}}

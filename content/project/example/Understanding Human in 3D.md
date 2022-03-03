@@ -16,6 +16,10 @@ In this project, you are going to develop a 2D vehicle pose estimation system ba
 detect all the key points of a car and estimate the poses, which is critical in autonomous driving. You may use advanced 
 techniques to improve the performance / accuracy of your deep neural networks.
 
+![](https://i.imgur.com/7THjK5Y.png)
+
+<br>
+
 {{< spoiler text="Lecture Notes" >}}
     https://hackmd.io/IIwLhdWfT6-djfJEL4zPzw?both
 {{< /spoiler >}}
